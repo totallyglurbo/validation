@@ -1,0 +1,25 @@
+{
+    "name": "totallyglurbo/validation",
+    "description": "Module for validating data",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "totallyglurbo",
+            "email": "glurb@glurbin.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ValidatorHelper\\": "src/"
+        }
+    },
+    "repositories": [
+        {"type": "composer", "url": "https://packagist.org.ru"},
+        {"packagist.org": false}
+    ]
+}

@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ValidatorHelper\\": "src/"
+            "Validator\\": "src/"
         }
     },
     "repositories": [

@@ -1,5 +1,5 @@
 <?php
-namespace Validator;
+namespace ValidatePackage;
 
 trait ValidatorHelper
 {
